@@ -2,9 +2,10 @@ body { background-color: rgba(197, 209, 235, 0.5);
 }
 .Head { max-width: 100%; /* Ensures the div doesn't 
     exceed the screen width */ background-color: 
-    rgba(96, 132, 150, 0.75); height: 50px;
-    font-family: 'DM Sans', sans-serif;
-    margin:10px;
-  padding:10px;
-  
+    rgba(96, 132, 150, 0.75); height: 50px; 
+    font-family: 'DM Sans', sans-serif; font-style: 
+    normal; font-weight: bold; /* Correct property 
+    name and value */ font-stretch: normal; /* 
+    Correct property name and value */ padding: 
+    10px; font-size: 20px;
 }
