@@ -2,5 +2,5 @@ body { background-color: rgba(197, 209, 235, 0.5);
 }
 .Head { max-width: 100%; /* Ensures the div doesn't 
     exceed the screen width */ background-color: 
-    rgba(96, 132, 150, 0.75); height: 25px;
+    rgba(96, 132, 150, 0.75); height: 50px;
 }
