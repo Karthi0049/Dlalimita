@@ -7,7 +7,6 @@ body { background-color: rgba(197, 209, 235, 0.5);
     normal; font-weight: bold; /* Correct property 
     name and value */ font-stretch: normal; /* 
     Correct property name and value */ 
-  padding: 8px 70px  2px 40px; 
+  padding: 8px 60px  2px 50px; 
     font-size: 40px;
-position:sticky;
 }
