@@ -8,5 +8,6 @@ body { background-color: rgba(197, 209, 235, 0.5);
     name and value */ font-stretch: normal; /* 
     Correct property name and value */ 
   padding: 8px 60px  2px 50px; 
+color: rgb(57, 91, 80);
     font-size: 40px;
 }
