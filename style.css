@@ -6,6 +6,6 @@ body { background-color: rgba(197, 209, 235, 0.5);
     font-family: 'DM Sans', sans-serif; font-style: 
     normal; font-weight: bold; /* Correct property 
     name and value */ font-stretch: normal; /* 
-    Correct property name and value */ padding: 
-    25px; font-size: 40px;
+    Correct property name and value */ padding:8px; 
+    font-size: 40px;
 }
