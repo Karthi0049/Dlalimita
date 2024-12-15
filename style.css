@@ -3,9 +3,8 @@ body { background-color: rgba(197, 209, 235, 0.5);
 .Head { max-width: 100%; /* Ensures the div doesn't 
     exceed the screen width */ background-color: 
     rgba(96, 132, 150, 0.75); height: 50px; 
-    font-family: 'DM Sans', sans-serif; font-style: 
-    normal; font-weight: bold; /* Correct property 
-    name and value */ font-stretch: normal; /* 
+    font-family: 'DM Sans', sans-serif; font-weight: bold; /* Correct property 
+    name and value */         /* 
     Correct property name and value */ 
   padding: 8px 60px  2px 50px; 
 color: rgb(57, 91, 80);
