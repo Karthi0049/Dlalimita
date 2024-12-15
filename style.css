@@ -1,4 +1,4 @@
-body { background: linear-gradient(aqua, blue);
+body { background-color:rgba(84, 143, 168) ;
 }
 .Head { max-width: 100%; /* Ensures the div doesn't 
     exceed the screen width */ background-color: 
