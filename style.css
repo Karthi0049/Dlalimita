@@ -10,12 +10,13 @@ body { background-color: rgba(87, 168, 171, 0.5);
     91, 80); font-size: 40px; display: flex; 
     align-items: center;
 }
-.box { border: 4px solid black; min-width: 220px; 
-    max-width: 900px; min-height: 350px; /* 
+.box { border: 4px solid black; min-width: 120px; 
+    max-width: 800px; min-height: 300px; /* 
     Corrected the typo here */
 background-color:rgba(115,90,125,0.4);
 margin-top:30px;
 padding:10px;
+justify-content: center;
 }
 
 img{
